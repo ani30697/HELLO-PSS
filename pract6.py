@@ -1,0 +1,9 @@
+strings="malayalam"
+list(strings)
+a=list(strings)
+print(a)
+a.reverse()
+b=list(a)
+print(b)
+str(b)
+print(b)
